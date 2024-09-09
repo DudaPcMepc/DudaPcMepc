@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me dudapworkspace@gamil.com
+- 📫 How to reach me dudapworkspace@gmail.com
   
 
 <!---
