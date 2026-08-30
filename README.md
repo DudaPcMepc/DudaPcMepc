@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DudaPcMepc
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me dudapworkspace@gmail.com
+- 📫 How to reach me dudapimentelcunha@gmail.com
   
 
 <!---
